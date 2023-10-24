@@ -1,0 +1,3 @@
+# Terragrunt/terraform
+.terragrunt-cache
+plan.cache
